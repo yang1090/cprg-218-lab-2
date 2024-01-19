@@ -80,6 +80,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Pickles
 
 Instructions:
 1. Preheat grill to medium-high heat.
