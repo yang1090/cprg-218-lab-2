@@ -113,3 +113,19 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+
+### Brownie
+
+Ingredients:
+- 2 eggs + water
+- Powdered sugar
+- Unsweetened cocoa powder
+- Canola oil
+- 1/2 teaspoon vanilla
+
+Instructions:
+1. Mix together the dry and wet ingredients in two separate bowls.
+2. Combine the wet and dry ingredients.
+3. Pour the batter into an 8×8 inch baking pan lined with parchment paper.
+4. Transfer the pan to a 325-degree oven and bake for 40 to 45 minutes.
